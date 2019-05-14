@@ -2,64 +2,104 @@
   "profile": {
     "name": "typicode"
   },
-  "listings": {
-    "data": [
-      {
-        "thumbnail": "assets/images/audi_r8_front.jpg",
-        "title": "Audi R8",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
-      },
+  "listings": [
+    {
+      "thumbnail": "https://media-download.ecgh.dk/images/zwAAAOSwjMBcrzgP/S157X111/picture.jpg",
+      "type": "sale",
+      "price" 3738,
+      "brand": "Audi",
+      "model": "R8",
+      "variant": "FSI quattro S tronic V10 plus (610 h.p.)",
+      "location": "Hammervej 293, 1. tv., 1697 Køge",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat.",
+    },
 
-      {
-        "thumbnail": "assets/images/audi_r8_front.jpg",
-        "title": "Audi R8",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
-      },
+    {
+      "thumbnail": "https://media-download.ecgh.dk/images/zwAAAOSwjMBcrzgP/S157X111/picture.jpg",
+      "type": "rental",
+      "price" 3738,
+      "brand": "Audi",
+      "model": "R8",
+      "variant": "FSI quattro S tronic V10 plus (610 h.p.)",
+      "location": "Hammervej 293, 1. tv., 1697 Køge",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
+    },
 
-      {
-        "thumbnail": "assets/images/audi_r8_front.jpg",
-        "title": "Audi R8",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
-      },
+    {
+      "thumbnail": "https://media-download.ecgh.dk/images/zwAAAOSwjMBcrzgP/S157X111/picture.jpg",
+      "type": "lease",
+      "price" 3738,
+      "brand": "Audi",
+      "model": "R8",
+      "variant": "FSI quattro S tronic V10 plus (610 h.p.)",
+      "location": "Hammervej 293, 1. tv., 1697 Køge",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
+    },
 
-      {
-        "thumbnail": "assets/images/audi_r8_front.jpg",
-        "title": "Audi R8",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
-      },
+    {
+      "thumbnail": "https://media-download.ecgh.dk/images/zwAAAOSwjMBcrzgP/S157X111/picture.jpg",
+      "type": "exchange",
+      "price" 3738,
+      "brand": "Audi",
+      "model": "R8",
+      "variant": "FSI quattro S tronic V10 plus (610 h.p.)",
+      "location": "Hammervej 293, 1. tv., 1697 Køge",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
+    },
 
-      {
-        "thumbnail": "assets/images/audi_r8_front.jpg",
-        "title": "Audi R8",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
-      },
+    {
+      "thumbnail": "https://media-download.ecgh.dk/images/zwAAAOSwjMBcrzgP/S157X111/picture.jpg",
+      "type": "subscription",
+      "price" 3738,
+      "brand": "Audi",
+      "model": "R8",
+      "variant": "FSI quattro S tronic V10 plus (610 h.p.)",
+      "location": "Hammervej 293, 1. tv., 1697 Køge",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
+    },
 
-      {
-        "thumbnail": "assets/images/audi_r8_front.jpg",
-        "title": "Audi R8",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
-      },
+    {
+      "thumbnail": "https://media-download.ecgh.dk/images/zwAAAOSwjMBcrzgP/S157X111/picture.jpg",
+      "type": "sale",
+      "price" 3738,
+      "brand": "Audi",
+      "model": "R8",
+      "variant": "FSI quattro S tronic V10 plus (610 h.p.)",
+      "location": "Hammervej 293, 1. tv., 1697 Køge",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
+    },
 
-      {
-        "thumbnail": "assets/images/audi_r8_front.jpg",
-        "title": "Audi R8",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
-      },
+    {
+      "thumbnail": "https://media-download.ecgh.dk/images/zwAAAOSwjMBcrzgP/S157X111/picture.jpg",
+      "type": "rental",
+      "price" 3738,
+      "brand": "Audi",
+      "model": "R8",
+      "variant": "FSI quattro S tronic V10 plus (610 h.p.)",
+      "location": "Hammervej 293, 1. tv., 1697 Køge",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
+    },
 
-      {
-        "thumbnail": "assets/images/audi_r8_front.jpg",
-        "title": "Audi R8",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
-      },
+    {
+      "thumbnail": "https://media-download.ecgh.dk/images/zwAAAOSwjMBcrzgP/S157X111/picture.jpg",
+      "type": "lease",
+      "price" 3738,
+      "brand": "Audi",
+      "model": "R8",
+      "variant": "FSI quattro S tronic V10 plus (610 h.p.)",
+      "location": "Hammervej 293, 1. tv., 1697 Køge",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
+    },
 
-      {
-        "thumbnail": "assets/images/audi_r8_front.jpg",
-        "title": "Audi R8",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
-      }
-    ],
-    "meta": {
-      
+    {
+      "thumbnail": "https://media-download.ecgh.dk/images/zwAAAOSwjMBcrzgP/S157X111/picture.jpg",
+      "type": "exchange",
+      "price" 3738,
+      "brand": "Audi",
+      "model": "R8",
+      "variant": "FSI quattro S tronic V10 plus (610 h.p.)",
+      "location": "Hammervej 293, 1. tv., 1697 Køge",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
     }
-  }
+  ]
 }
