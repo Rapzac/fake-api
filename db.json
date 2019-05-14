@@ -1,7 +1,4 @@
 {
-  "profile": {
-    "name": "typicode"
-  },
   "listings": [
     {
       "thumbnail": "https://media-download.ecgh.dk/images/zwAAAOSwjMBcrzgP/S157X111/picture.jpg",
@@ -14,7 +11,6 @@
       "location": "Hammervej 293, 1. tv., 1697 Køge",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat.",
     },
-
     {
       "thumbnail": "https://media-download.ecgh.dk/images/zwAAAOSwjMBcrzgP/S157X111/picture.jpg",
       "type": "rental",
@@ -26,7 +22,6 @@
       "location": "Hammervej 293, 1. tv., 1697 Køge",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
     },
-
     {
       "thumbnail": "https://media-download.ecgh.dk/images/zwAAAOSwjMBcrzgP/S157X111/picture.jpg",
       "type": "lease",
@@ -38,7 +33,6 @@
       "location": "Hammervej 293, 1. tv., 1697 Køge",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
     },
-
     {
       "thumbnail": "https://media-download.ecgh.dk/images/zwAAAOSwjMBcrzgP/S157X111/picture.jpg",
       "type": "exchange",
@@ -50,7 +44,6 @@
       "location": "Hammervej 293, 1. tv., 1697 Køge",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
     },
-
     {
       "thumbnail": "https://media-download.ecgh.dk/images/zwAAAOSwjMBcrzgP/S157X111/picture.jpg",
       "type": "subscription",
@@ -62,7 +55,6 @@
       "location": "Hammervej 293, 1. tv., 1697 Køge",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
     },
-
     {
       "thumbnail": "https://media-download.ecgh.dk/images/zwAAAOSwjMBcrzgP/S157X111/picture.jpg",
       "type": "sale",
@@ -74,7 +66,6 @@
       "location": "Hammervej 293, 1. tv., 1697 Køge",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
     },
-
     {
       "thumbnail": "https://media-download.ecgh.dk/images/zwAAAOSwjMBcrzgP/S157X111/picture.jpg",
       "type": "rental",
@@ -86,7 +77,6 @@
       "location": "Hammervej 293, 1. tv., 1697 Køge",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
     },
-
     {
       "thumbnail": "https://media-download.ecgh.dk/images/zwAAAOSwjMBcrzgP/S157X111/picture.jpg",
       "type": "lease",
@@ -98,7 +88,6 @@
       "location": "Hammervej 293, 1. tv., 1697 Køge",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
     },
-
     {
       "thumbnail": "https://media-download.ecgh.dk/images/zwAAAOSwjMBcrzgP/S157X111/picture.jpg",
       "type": "exchange",
