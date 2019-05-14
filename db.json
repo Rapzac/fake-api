@@ -1,11 +1,60 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "listings": [
+    {
+      "thumbnail": "assets/images/audi_r8_front.jpg",
+      "title": "Audi R8",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
+    },
+
+    {
+      "thumbnail": "assets/images/audi_r8_front.jpg",
+      "title": "Audi R8",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
+    },
+
+    {
+      "thumbnail": "assets/images/audi_r8_front.jpg",
+      "title": "Audi R8",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
+    },
+
+    {
+      "thumbnail": "assets/images/audi_r8_front.jpg",
+      "title": "Audi R8",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
+    },
+
+    {
+      "thumbnail": "assets/images/audi_r8_front.jpg",
+      "title": "Audi R8",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
+    },
+
+    {
+      "thumbnail": "assets/images/audi_r8_front.jpg",
+      "title": "Audi R8",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
+    },
+
+    {
+      "thumbnail": "assets/images/audi_r8_front.jpg",
+      "title": "Audi R8",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
+    },
+
+    {
+      "thumbnail": "assets/images/audi_r8_front.jpg",
+      "title": "Audi R8",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
+    },
+
+    {
+      "thumbnail": "assets/images/audi_r8_front.jpg",
+      "title": "Audi R8",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
+    }
+  ]
 }
