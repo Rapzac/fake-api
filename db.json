@@ -10,6 +10,7 @@
       "brand": "Audi",
       "model": "R8",
       "variant": "FSI quattro S tronic V10 plus (610 h.p.)",
+      "fuel": "gasolin",
       "location": "Hammervej 293, 1. tv., 1697 Køge",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat.",
     },
@@ -21,6 +22,7 @@
       "brand": "Audi",
       "model": "R8",
       "variant": "FSI quattro S tronic V10 plus (610 h.p.)",
+      "fuel": "gasolin",
       "location": "Hammervej 293, 1. tv., 1697 Køge",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
     },
@@ -32,6 +34,7 @@
       "brand": "Audi",
       "model": "R8",
       "variant": "FSI quattro S tronic V10 plus (610 h.p.)",
+      "fuel": "gasolin",
       "location": "Hammervej 293, 1. tv., 1697 Køge",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
     },
@@ -43,6 +46,7 @@
       "brand": "Audi",
       "model": "R8",
       "variant": "FSI quattro S tronic V10 plus (610 h.p.)",
+      "fuel": "gasolin",
       "location": "Hammervej 293, 1. tv., 1697 Køge",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
     },
@@ -54,6 +58,7 @@
       "brand": "Audi",
       "model": "R8",
       "variant": "FSI quattro S tronic V10 plus (610 h.p.)",
+      "fuel": "hybrid",
       "location": "Hammervej 293, 1. tv., 1697 Køge",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
     },
@@ -65,6 +70,7 @@
       "brand": "Audi",
       "model": "R8",
       "variant": "FSI quattro S tronic V10 plus (610 h.p.)",
+      "fuel": "gasolin",
       "location": "Hammervej 293, 1. tv., 1697 Køge",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
     },
@@ -76,6 +82,7 @@
       "brand": "Audi",
       "model": "R8",
       "variant": "FSI quattro S tronic V10 plus (610 h.p.)",
+      "fuel": "electric",
       "location": "Hammervej 293, 1. tv., 1697 Køge",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
     },
@@ -87,6 +94,7 @@
       "brand": "Audi",
       "model": "R8",
       "variant": "FSI quattro S tronic V10 plus (610 h.p.)",
+      "fuel": "gasolin",
       "location": "Hammervej 293, 1. tv., 1697 Køge",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
     },
@@ -98,6 +106,7 @@
       "brand": "Audi",
       "model": "R8",
       "variant": "FSI quattro S tronic V10 plus (610 h.p.)",
+      "fuel": "gasolin",
       "location": "Hammervej 293, 1. tv., 1697 Køge",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
     }
