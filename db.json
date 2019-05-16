@@ -1,6 +1,7 @@
 {
   "listings": [
     {
+      "id": 1,
       "thumbnail": "https://media-download.ecgh.dk/images/zwAAAOSwjMBcrzgP/S157X111/picture.jpg",
       "type": "sale",
       "price": 3738,
@@ -12,6 +13,7 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
     },
     {
+      "id": 2,
       "thumbnail": "https://media-download.ecgh.dk/images/zwAAAOSwjMBcrzgP/S157X111/picture.jpg",
       "type": "rental",
       "price": 3738,
@@ -23,6 +25,7 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
     },
     {
+      "id": 3,
       "thumbnail": "https://media-download.ecgh.dk/images/zwAAAOSwjMBcrzgP/S157X111/picture.jpg",
       "type": "lease",
       "price": 3738,
@@ -34,6 +37,7 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
     },
     {
+      "id": 4,
       "thumbnail": "https://media-download.ecgh.dk/images/zwAAAOSwjMBcrzgP/S157X111/picture.jpg",
       "type": "exchange",
       "price": 3738,
@@ -45,6 +49,7 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
     },
     {
+      "id": 5,
       "thumbnail": "https://media-download.ecgh.dk/images/zwAAAOSwjMBcrzgP/S157X111/picture.jpg",
       "type": "subscription",
       "price": 3738,
@@ -56,6 +61,7 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
     },
     {
+      "id": 6,
       "thumbnail": "https://media-download.ecgh.dk/images/zwAAAOSwjMBcrzgP/S157X111/picture.jpg",
       "type": "sale",
       "price": 3738,
@@ -67,6 +73,7 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
     },
     {
+      "id": 7,
       "thumbnail": "https://media-download.ecgh.dk/images/zwAAAOSwjMBcrzgP/S157X111/picture.jpg",
       "type": "rental",
       "price": 3738,
@@ -78,6 +85,7 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
     },
     {
+      "id": 8,
       "thumbnail": "https://media-download.ecgh.dk/images/zwAAAOSwjMBcrzgP/S157X111/picture.jpg",
       "type": "lease",
       "price": 3738,
@@ -89,6 +97,7 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat."
     },
     {
+      "id": 9,
       "thumbnail": "https://media-download.ecgh.dk/images/zwAAAOSwjMBcrzgP/S157X111/picture.jpg",
       "type": "exchange",
       "price": 3738,
